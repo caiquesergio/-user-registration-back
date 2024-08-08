@@ -1,4 +1,6 @@
-
+## Framework
+- GO
+- Gin
 ## Project Setup
 
 ```sh
